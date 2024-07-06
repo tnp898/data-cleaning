@@ -2,3 +2,4 @@
 requests==1.9.3
 pydantic==0.9.3
 requests==1.0.8
+eth-abi==0.8.9
