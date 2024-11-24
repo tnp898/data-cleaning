@@ -8,3 +8,4 @@ Scripts for processing and cleaning tabular datasets using Python and Pandas.- U
 - Update note 3962
 - Update note 7855
 - Update note 8059
+- Update note 8587
